@@ -20,3 +20,17 @@ https://appicon.co/
 https://icons8.com/
 
 https://www.canva.com/
+
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+
+Give equal space alignment
+
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+
+https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
+
+Custom Fonts installation
+
+https://fonts.google.com/specimen/Work+Sans?query=Work+Sans&selection.family=Work+Sans:wght@100#standard-styles
+
+https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
